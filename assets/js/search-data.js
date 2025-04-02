@@ -358,6 +358,17 @@ ninja.data = [{
             window.location.href = "/test/blog/2021/diagrams/";
           
         },
+      },{id: "post-scaling-reinforcement-learning",
+        
+          title: "Scaling reinforcement learning",
+        
+        description: "an example of a distill-style blog post and main elements",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/test/blog/2021/distill/";
+          
+        },
       },{id: "post-a-distill-style-blog-post",
         
           title: "a distill-style blog post",
