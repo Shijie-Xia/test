@@ -4,7 +4,7 @@ title: Scaling reinforcement learning
 description: an example of a distill-style blog post and main elements
 tags: distill formatting
 giscus_comments: true
-date: 2021-05-22
+date: 2025-04-02
 featured: true
 mermaid:
   enabled: true
