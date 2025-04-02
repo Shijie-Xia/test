@@ -7,7 +7,7 @@ first_name: You
 middle_name: R.
 last_name: Name
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Please let us know if you find out a mistake or have any suggestions by e-mail: shijiexia@sjtu.edu.cn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
